@@ -1,6 +1,8 @@
 # Synthesising Names
 This repo is a code repository for my paper: Generating synthetic identifiers to support development and evaluation of data linkage methods.
 Please feel free to get in touch with me at joseph.lam.18@ucl.ac.uk
+Synthetic ALSPAC data can be downloaded on UCL Research Data Repository (doi:10.5522/04/25921408). 
+Original ALSPAC data can be requested from ALSPAC website.
 
 This includes:
 1) process of creating a synthetic ALSPAC dataset
