@@ -118,5 +118,4 @@ Results from original data is populated into the same table -> (appendix table A
 For results and further description of the methodology, please read my paper and the appendix materials.
 Please feel free to get in touch at joseph.lam.18@ucl.ac.uk
 
-For results and further description of the methodology, please read my paper and the appendix materials. (links to be added)
 
